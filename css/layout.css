@@ -39,7 +39,7 @@
 }
 
 [class*="col-"] {
-  margin:2% 2% 2% 2%;
+  margin:2% auto;
 } 
 
 .first {
