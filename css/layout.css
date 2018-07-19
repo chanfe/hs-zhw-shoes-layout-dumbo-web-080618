@@ -41,5 +41,5 @@
 
 [class*="col-"] {
   margin: 1%;
-  margin: #ccc;
+  border-color: #ccc;
 } 
