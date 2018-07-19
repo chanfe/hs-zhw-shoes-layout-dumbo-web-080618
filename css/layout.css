@@ -27,6 +27,7 @@
 
 .col-1 {
   float: left;
+  padding: 1em;
   width: 30%;
 }
 
